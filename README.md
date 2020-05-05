@@ -1,2 +1,2 @@
-# template-colorui-miniprogram
-miniprogram template with colorui
+# skeleton-colorui-miniprogram
+miniprogram skeleton with colorui
